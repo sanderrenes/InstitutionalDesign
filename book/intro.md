@@ -1,6 +1,4 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the notes on Institutional Design
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Institutional Design is a combination of design techniques from the design sciences and theories from economics and other social sciences. The goal is to (re)design the institutions, or rules-of-the-game, that govern interactions between the human actors and entities in a system to create better outcomes for all.
